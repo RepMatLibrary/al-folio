@@ -5,9 +5,18 @@ layout: default
 <!-- about.html -->
       <div class="post">
         <header class="post-header">
-          <h1 class="post-title">
+          <div class="row">
+              <div class="col-sm-6 mt-3 mt-md-0">
+
+              </div>
+          </div>
+          <br>
+          <br>
+<h1>Rep<strong>Mat</strong></h1>
+
+          <h2 class="post-title">
            {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
-          </h1>
+          </h2>
           <p class="desc">{{ page.subtitle }}</p>
         </header>
 
@@ -18,13 +27,13 @@ layout: default
               {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
 
               {% if page.profile.image_circular %}
-                {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
+                {%- assign profile_image_class = "img-fluid rounded-circle" -%}
               {% else %}
-                {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
+                {%- assign profile_image_class = "img-fluid rounded" -%}
               {% endif %}
 
-              {% include figure.html 
-              path=profile_image_path 
+              {% include figure.html
+              path=profile_image_path
               class=profile_image_class
               alt=page.profile.image -%}
             {% endif -%}
@@ -48,9 +57,14 @@ layout: default
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
+            <h2><a href="{{ '/press/' | relative_url }}" style="color: inherit;">Press Release</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
+          
+
+          <br>
+          <hr>
+
 
           <!-- Social -->
           {%- if page.social %}
@@ -62,7 +76,7 @@ layout: default
               <div class="contact-note">
                 {{ site.contact_note }}
               </div>
-              
+
             </div>
           {%- endif %}
         </article>
