@@ -92,6 +92,7 @@ For more information, visit the section [Join Us](joinus/) of this website. The 
 Special thanks to:
 + <b>Contents contributors (samples, tests, applications):</b> Juan Sebastian Barrera Cely, Lorenzo Perusin, Martina Paramatti, Davide Teruzzi.
 * <b>Supervisors (research activity):</b> Marinella Levi, Valentina Rognoli, Joshua M. Pearce.
+* <b>Supervisors (materials library development):</b> Marinella Levi, Valentina Rognoli.
 + <b>Consultants, technical assistance, and support:</b> Mattia Ciurnelli, Aliaksei Petsiuk, Gianluca Pugliese, Ravneet S. Rattan, Giulia Riccardi, Romano Romani.
 + <b>Companies and institutions:</b> FAST Lab (Western University), SuperForma Srl, Wasp Srl, Il Bullone, CoffeeFrom Srl, LowPoly SL, Re:3D.
 
