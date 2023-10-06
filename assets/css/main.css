@@ -6,18 +6,18 @@
  * Themes
  ******************************************************************************/
 :root {
-  --global-bg-color: #ffffff;
-  --global-code-bg-color: rgba(181, 9, 172, 0.05);
+  --global-bg-color: #f7f7f9;
+  --global-code-bg-color: #DFDFE8;
   --global-text-color: #000000;
   --global-text-color-light: #828282;
-  --global-theme-color: #B509AC;
-  --global-hover-color: #B509AC;
+  --global-theme-color: #00a777;
+  --global-hover-color: #076948;
   --global-footer-bg-color: #1C1C1D;
-  --global-footer-text-color: #e8e8e8;
-  --global-footer-link-color: #ffffff;
+  --global-footer-text-color: #f7f7f9;
+  --global-footer-link-color: #f7f7f9;
   --global-distill-app-color: #828282;
-  --global-divider-color: rgba(0,0,0,.1);
-  --global-card-bg-color: #ffffff;
+  --global-divider-color: rgba(0,0,0,.2);
+  --global-card-bg-color: #DFDFE8;
 }
 :root .fa-sun {
   display: none;
@@ -34,17 +34,27 @@
   display: none;
 }
 
+.header-background .img {
+  background-image: url("/assets/img/Home/Banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center bottom;
+  height: 25em;
+  margin-bottom: 2em;
+  margin-top: -4em;
+}
+
 html[data-theme=dark] {
   --global-bg-color: #1C1C1D;
   --global-code-bg-color: #2c3237;
-  --global-text-color: #e8e8e8;
-  --global-text-color-light: #e8e8e8;
-  --global-theme-color: #2698BA;
-  --global-hover-color: #2698BA;
-  --global-footer-bg-color: #e8e8e8;
+  --global-text-color: #f7f7f9;
+  --global-text-color-light: #f7f7f9;
+  --global-theme-color: #00a777;
+  --global-hover-color: #00a777;
+  --global-footer-bg-color: #f7f7f9;
   --global-footer-text-color: #1C1C1D;
   --global-footer-link-color: #000000;
-  --global-distill-app-color: #e8e8e8;
+  --global-distill-app-color: #f7f7f9;
   --global-divider-color: #424246;
   --global-card-bg-color: #212529;
 }
@@ -89,6 +99,9 @@ body.sticky-bottom-footer {
 
 .profile img {
   width: 100%;
+  height: 100%;
+  display: inline;
+  margin: 0 auto;
 }
 
 /******************************************************************************
@@ -100,50 +113,43 @@ body.sticky-bottom-footer {
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
-p,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-em,
-div,
-li,
-span,
-strong {
+p, h1, h2, h3, h4, h5, h6, em, div, li, span {
   color: var(--global-text-color);
+}
+
+strong {
+  color: var(--green-color-bright);
 }
 
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
-table td,
-table th {
+table td, table th {
   color: var(--global-text-color);
 }
 table td {
+  font-family: helvetica;
   font-size: 1rem;
 }
 
-a,
-table.table a {
+a, table.table a {
   color: var(--global-theme-color);
 }
-a:hover,
-table.table a:hover {
+a:hover, table.table a:hover {
   color: var(--global-theme-color);
   text-decoration: underline;
 }
-a:hover:after :not(.nav-item.dropdown),
-table.table a:hover:after :not(.nav-item.dropdown) {
+a:hover:after :not(.nav-item.dropdown), table.table a:hover:after :not(.nav-item.dropdown) {
   width: 100%;
 }
 
-figure,
-img {
+figure, img {
   max-width: 90vw;
+  display: inline;
+  margin: 0 auto;
+  height: 100%;
+  width: auto;
 }
 
 blockquote {
@@ -151,6 +157,7 @@ blockquote {
   border-left: 2px solid var(--global-theme-color);
   margin: 1.5em 10px;
   padding: 0.5em 10px;
+  font-family: helvetica;
   font-size: 1.2rem;
 }
 
@@ -160,6 +167,7 @@ blockquote {
 }
 
 .caption {
+  font-family: helvetica;
   font-size: 0.875rem;
   margin-top: 0.75rem;
   margin-bottom: 1.5rem;
@@ -184,8 +192,7 @@ blockquote {
   align-items: center;
 }
 
-.citation,
-.citation-number {
+.citation, .citation-number {
   color: var(--global-theme-color);
 }
 
@@ -195,6 +202,7 @@ blockquote {
 .profile .address {
   margin-bottom: 5px;
   margin-top: 5px;
+  font-family: helvetica;
   font-family: monospace;
 }
 .profile .address p {
@@ -220,6 +228,7 @@ blockquote {
 }
 .post-description {
   margin-bottom: 2rem;
+  font-family: helvetica;
   font-size: 0.875rem;
 }
 .post-description a {
@@ -273,6 +282,7 @@ blockquote {
 }
 .navbar.navbar-light .navbar-nav .nav-item.active > .nav-link {
   background-color: inherit;
+  font-family: helvetica;
   font-weight: bolder;
   color: var(--global-theme-color);
 }
@@ -282,6 +292,7 @@ blockquote {
 .navbar.navbar-light .navbar-brand.social {
   padding-bottom: 0;
   padding-top: 0;
+  font-family: helvetica;
   font-size: 1.7rem;
 }
 .navbar.navbar-light .navbar-brand.social a i::before {
@@ -337,7 +348,8 @@ blockquote {
   text-align: center;
 }
 .social .contact-icons {
-  font-size: 4rem;
+  font-family: helvetica;
+  font-size: 2rem;
 }
 .social .contact-icons a i::before {
   color: var(--global-text-color);
@@ -347,17 +359,19 @@ blockquote {
   color: var(--global-theme-color);
 }
 .social .contact-note {
+  font-family: helvetica;
   font-size: 0.8rem;
 }
 
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
-  font-size: 0.75rem;
+  font-family: helvetica;
+  font-size: 0.7rem;
 }
 footer.fixed-bottom .container {
   color: var(--global-footer-text-color);
-  padding-top: 9px;
-  padding-bottom: 8px;
+  padding-top: 3px;
+  padding-bottom: 3px;
 }
 footer.fixed-bottom a {
   color: var(--global-footer-link-color);
@@ -371,6 +385,7 @@ footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
   padding-top: 40px;
   padding-bottom: 40px;
+  font-family: helvetica;
   font-size: 0.9rem;
 }
 
@@ -403,6 +418,7 @@ footer.sticky-bottom {
 }
 .header-bar h1 {
   color: var(--global-theme-color);
+  font-family: helvetica;
   font-size: 5rem;
 }
 
@@ -415,8 +431,7 @@ footer.sticky-bottom {
   justify-content: center;
   display: flow-root;
 }
-.tag-list ul p,
-.tag-list ul li {
+.tag-list ul p, .tag-list ul li {
   list-style: none;
   display: inline-block;
   padding: 1rem 0.5rem;
@@ -431,16 +446,18 @@ footer.sticky-bottom {
 .post-list li {
   border-bottom: 1px solid var(--global-divider-color);
   list-style: none;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 0.3rem;
+  padding-bottom: 0.1rem;
 }
 .post-list li .post-meta {
   color: var(--global-text-color-light);
+  font-family: helvetica;
   font-size: 0.875rem;
   margin-bottom: 0;
 }
 .post-list li .post-tags {
   color: var(--global-text-color-light);
+  font-family: helvetica;
   font-size: 0.875rem;
   padding-top: 0.25rem;
   padding-bottom: 0;
@@ -489,17 +506,16 @@ footer.sticky-bottom {
   display: flex;
   align-items: center;
 }
-.projects .grid-sizer,
-.projects .grid-item {
-  width: 250px;
-  margin-bottom: 10px;
+.projects .grid-sizer, .projects .grid-item {
+  width: 185px;
+  margin-bottom: 5px;
 }
 .projects h2.category {
   color: var(--global-divider-color);
   border-bottom: 1px solid var(--global-divider-color);
   padding-top: 0.5rem;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
   text-align: right;
 }
 
@@ -508,23 +524,25 @@ footer.sticky-bottom {
 }
 .publications h1 {
   color: var(--global-theme-color);
+  font-family: helvetica;
   font-size: 2rem;
   text-align: center;
   margin-top: 1em;
   margin-bottom: 1em;
 }
 .publications h2 {
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 .publications h2 span {
+  font-family: helvetica;
   font-size: 1.5rem;
 }
 .publications h2.year {
   color: var(--global-divider-color);
   border-top: 1px solid var(--global-divider-color);
-  padding-top: 1rem;
-  margin-top: 2rem;
-  margin-bottom: -2rem;
+  padding-top: 0rem;
+  margin-top: 1rem;
+  margin-bottom: -3rem;
   text-align: right;
 }
 .publications ol.bibliography {
@@ -561,7 +579,9 @@ footer.sticky-bottom {
   border: 1px solid var(--global-theme-color);
 }
 .publications ol.bibliography li .title {
+  font-family: helvetica;
   font-weight: bolder;
+  margin-top: 0.6rem;
 }
 .publications ol.bibliography li .author a {
   border-bottom: 1px dashed var(--global-theme-color);
@@ -572,6 +592,7 @@ footer.sticky-bottom {
 }
 .publications ol.bibliography li .author > em {
   border-bottom: 1px solid;
+  font-family: helvetica;
   font-style: normal;
 }
 .publications ol.bibliography li .author > span.more-authors {
@@ -606,6 +627,7 @@ footer.sticky-bottom {
   text-decoration: underline;
 }
 .publications ol.bibliography li .hidden {
+  font-family: helvetica;
   font-size: 0.875rem;
   max-height: 0px;
   overflow: hidden;
@@ -621,6 +643,7 @@ footer.sticky-bottom {
   margin: 10px;
 }
 .publications ol.bibliography li .hidden pre {
+  font-family: helvetica;
   font-size: 1em;
   line-height: 1.4em;
   padding: 10px;
@@ -639,6 +662,12 @@ footer.sticky-bottom {
 .publications ol.bibliography li div.abstract.hidden.open {
   border-color: var(--global-text-color);
 }
+.publications ol.bibliography div.event.hidden {
+  border: dashed 1px var(--global-bg-color);
+}
+.publications ol.bibliography div.event.hidden.open {
+  border-color: var(--global-text-color);
+}
 
 figure.highlight {
   margin: 0 0 1rem;
@@ -650,11 +679,9 @@ pre {
   border-radius: 6px;
   padding: 6px 12px;
 }
-pre pre,
-pre code {
+pre pre, pre code {
   background-color: transparent;
   border-radius: 0;
-  margin-bottom: 0;
   padding: 0;
 }
 
@@ -675,11 +702,13 @@ html.transition *:after {
 
 .post .post-meta {
   color: var(--global-text-color-light);
+  font-family: helvetica;
   font-size: 0.875rem;
   margin-bottom: 0;
 }
 .post .post-tags {
   color: var(--global-text-color-light);
+  font-family: helvetica;
   font-size: 0.875rem;
   padding-top: 0.25rem;
   padding-bottom: 1rem;
@@ -744,32 +773,6 @@ progress::-moz-progress-bar {
   width: 0%;
   display: block;
   height: inherit;
-}
-
-pre {
-  padding: 8px 12px;
-  position: relative;
-  /* Copy code to clipboard button */
-}
-pre .copy {
-  background: var(--global-card-bg-color);
-  border-color: var(--global-bg-color);
-  border-radius: 0.3rem;
-  border-style: solid;
-  color: var(--global-text-color);
-  font-size: medium;
-  opacity: 0;
-  position: absolute;
-  right: 0.25rem;
-  top: 0.25rem;
-}
-pre .copy:active, pre .copy:focus, pre .copy:hover {
-  color: var(--global-hover-color);
-  opacity: 1;
-}
-pre:active .copy, pre:focus .copy, pre:hover .copy {
-  color: var(--global-hover-color);
-  opacity: 1;
 }
 
 /*******************************************************************************
