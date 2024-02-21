@@ -17,7 +17,7 @@ Each recyclate has been identified with a specific name to facilitate identifica
 <br>`Gxxx` Materials and Products main group.
 <br>`Myy` Specific material of the main group.
 
-Do you want to know more about the organization and taxonomy of the physical and virtual parts of the library? Visit the section [How it works](howitworks/)!
+Do you want to know more about the organization and taxonomy of the physical and virtual parts of the library? Visit the section [How it works](https://repmatlibrary.github.io/howitworks/)!
 <br>
 <br>
 <div class="row justify-content-sm-center">

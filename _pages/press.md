@@ -15,7 +15,6 @@ nav_order: 3
 <h4><b><a name="publications">Publications</a></b></h4>
 <h5>Journal articles, Book chapters, Conference papers</h5>
 <br>
-
 <div class="publications">
 
 {%- for y in page.years %}
@@ -31,7 +30,6 @@ nav_order: 3
 <h4><b><a name="events">Events and media</a></b></h4>
 <h5>International conferences, talks, presentations, and media</h5>
 <br>
-
 <div class="publications">
 
 {%- for y in page.years %}
