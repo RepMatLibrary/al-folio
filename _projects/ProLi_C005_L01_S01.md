@@ -67,6 +67,7 @@ category: Product - Cluster 005
 <h4><b>Resources and links</b></h4>
 
 | <b>3D model (Stl)</b>       | [Here](https://osf.io/rwafy/files/osfstorage/65158ffab0a33e03a65922ff ).   |
+| <b>Research article</b>       | [Here](https://pubs.acs.org/doi/10.1021/acsomega.3c05669?fig=tgr1&ref=pdf ).   |
 
 <hr>
 

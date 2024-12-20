@@ -68,6 +68,7 @@ category: Product - Cluster 001
 <h4><b>Resources and links</b></h4>
 
 | <b>Thesis work (link to the pdf)</b>       | [Here](https://www.politesi.polimi.it/handle/10589/187269 ).   |
+| <b>Research article</b>       | [Here](https://www.sciencedirect.com/science/article/pii/S2589234723003238 ).   |
 
 <br>
 <hr>

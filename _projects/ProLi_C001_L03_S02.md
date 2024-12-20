@@ -70,6 +70,7 @@ category: Product - Cluster 001
 | <b>3D model - David (Stl)</b>       | [Here](https://www.thingiverse.com/thing:502967).   |
 | <b>Cicatr/ci Milano (Link)</b>  | [Here](https://lartediripartire.com/about/).    |
 | <b>Cicatr/ci Milano (Triennale)</b>  | [Here](https://triennale.org/eventi/cicatrci-milano).    |
+| <b>Research article</b>       | [Here](https://www.sciencedirect.com/science/article/pii/S2589234723003238 ).   |
 
 <br>
 <hr>

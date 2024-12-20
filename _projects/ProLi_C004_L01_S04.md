@@ -68,6 +68,7 @@ category: Product - Cluster 004
 <h4><b>Resources and links</b></h4>
 
 | <b>Thesis work (link to the pdf)</b>       | [Here](https://www.politesi.polimi.it/handle/10589/206349 ).   |
+| <b>Research article</b>       | [Here](https://pubs.acs.org/doi/10.1021/acsomega.3c05669?fig=tgr1&ref=pdf ).   |
 
 <hr>
 

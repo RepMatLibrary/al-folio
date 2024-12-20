@@ -68,6 +68,7 @@ category: Product - Cluster 001
 <h4><b>Resources and links</b></h4>
 
 | <b>3D model (Stl)</b>       | [Here](https://osf.io/rwafy/files/osfstorage/65158ffab0a33e03a65922ff ).   |
+| <b>Research article</b>       | [Here](https://www.sciencedirect.com/science/article/pii/S2589234723003238 ).   |
 
 <hr>
 

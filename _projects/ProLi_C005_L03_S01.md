@@ -66,7 +66,7 @@ category: Product - Cluster 005
 <hr>
 <h4><b>Resources and links</b></h4>
 
-| <b>To be updated soon</b>       | //   |
+| <b>Research article</b>       | [Here](https://pubs.acs.org/doi/10.1021/acsomega.3c05669?fig=tgr1&ref=pdf ).   |
 
 <br>
 <hr>

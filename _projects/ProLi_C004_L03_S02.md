@@ -69,6 +69,7 @@ category: Product - Cluster 004
 
 | <b>3D model (Stl)</b>       | [Here](https://osf.io/rwafy/files/osfstorage/651bd1e31bc8650887f377d4 ).   |
 | <b>Thesis work (link to the pdf)</b>       | [Here](https://www.politesi.polimi.it/handle/10589/206349 ).   |
+| <b>Research article</b>       | [Here](https://pubs.acs.org/doi/10.1021/acsomega.3c05669?fig=tgr1&ref=pdf ).   |
 
 <hr>
 
