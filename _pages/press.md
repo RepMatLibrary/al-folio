@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /press/
-title: Press
+permalink: /publications/
+title: Publications
 description: Press release, publications, and events about RepMat.
 years: [2024, 2023, 2022, 2021]
-nav: true
+nav: false
 nav_order: 3
 ---
 <!-- _pages/publications.md -->
@@ -24,39 +24,8 @@ nav_order: 3
 
 </div>
 
-<br><br><br>
 
-
-<h4><b><a name="events">Events and media</a></b></h4>
-<h5>International conferences, talks, presentations, and media</h5>
-<br>
-<div class="publications">
-
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f events -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div>
-
-<br><br><br><br><br>
-<div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Home/Home_9.jpg" title="example image" class="img-fluid" %}
-    </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Home/Home_10.jpg" title="example image" class="img-fluid" %}
-    </div>
-</div>
-<br>
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Home/Home_11.jpg" title="example image" class="img-fluid" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Home/Home_12.jpg" title="example image" class="img-fluid" %}
-    </div>
-</div>
+<br><br>
 <hr>
 
 <br>

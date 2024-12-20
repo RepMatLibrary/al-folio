@@ -63,15 +63,26 @@ As the name suggests, <strong>RepMat</strong> derives from the concept of <stron
 <h5><i>A growing <b>Project</b>.</i></h5>
 <br>
 
-The contents of <strong>RepMat</strong>, as well as its concept, are part of the Ph.D. research of Alessia Romani, supervised by prof. Marinella Levi and prof. Valentina Rognoli.
+The contents of <strong>RepMat</strong>, as well as its concept, are part of the Ph.D. research of Alessia Romani, supervised by prof. Marinella Levi and prof. Valentina Rognoli. The <b>Ph.D. dissertation</b>, entitled <a href="https://www.politesi.polimi.it/handle/10589/217101">"Circularity by design, materials and additive manufacturing: fostering sustainable and circular materialities enabled by additive manufacturing"</a>, is available at POLItesi, the Digital archive of PhD and post graduate theses.
 
-The doctoral research has been mainly conducted at the Department of Chemistry, Materials and Chemical Engineering "Giulio Natta" and Design Department of Politecnico di Milano (Milan, Italy) at [+LAB](piulab.it) and [MaDe/Trans](https://www.linkedin.com/company/materials-for-transitions-polimi/?originalSubdomain=it). Part of the work has been held in the Department of Electrical and Computer Engineering of Western University (London, Ontario, Canada) at [FAST Lab](https://www.appropedia.org/Category:FAST).
+The doctoral research was mainly conducted at the Department of Chemistry, Materials and Chemical Engineering "Giulio Natta" and Design Department of Politecnico di Milano (Milan, Italy) at [+LAB](piulab.it) and [MaDe/Trans](https://www.linkedin.com/company/materials-for-transitions-polimi/?originalSubdomain=it). Part of the work has been held in the Department of Electrical and Computer Engineering of Western University (London, Ontario, Canada) at [FAST Lab](https://www.appropedia.org/Category:FAST).
 
 The idea of a <strong>Materials Library System</strong> derives from the work of Alessia held within the Horizon 2020 European Project `FiberEUse` "Large scale demonstration of new circular economy value-chains based on the reuse of end-of-life fiber reinforced composites". The Materials library of this project, [FiberEUse Library](https://fibereuselibrary.com/), can be considered as a previous step in defining the concept of the <strong>RepMat</strong> Library, sharing similar structures and taxonomies in their parts. For this reason, the FiberEUse library is considered as an important milestone in reaching the current version of <strong>RepMat</strong>.
 
 <strong>RepMat</strong> should be intended as a growing experiential tool to be redefined and improved through use and in a collaborative way. The physical part can be freely replicated within fablabs, makerspaces, studios, and educational institutions by following the principles of <strong>open source</strong> and <strong>open design</strong>, giving the credits to this project. In addition, these results can be also added and shared in this virtual part of <strong>RepMat</strong> to support this work and help other users, sharing new knowledge.
+<br><br>
+Visit the section [Join Us](joinus/) of this website for more information and knowing how to participate to this project.
 
-For more information, visit the section [Join Us](joinus/) of this website. The software content are released under the <strong>GNU General Public License (GPL) 3.0.</strong>
+<hr>
+
+<br>
+<h4>RepMat.</h4>
+<h5><i>Certified <b>Open Source Hardware</b> (OSHW).</i></h5>
+<br>
+
+Since December 2024, the RepMat Library is an <strong>Open Source Hardware Educational Tool</strong> certified by <a href="">OSHWA (Open Source Hardware Association)</a> and released under the <strong>CERN-OHL-S-2.0</strong> (hardware and documentation) and <strong>GNU General Public License (GPL) 3.0.</strong> (software), <strong>Certification number</strong> <a href="https://certification.oshwa.org/it000018.html">[OSHW] IT000018</a> Certified open source hardware <a href="oshwa.org/cert"> oshwa.org/cert</a>.
+
+The <strong>OSHWA certification</strong> is provided to projects that comply with the community definition of <strong>open source hardware</strong>, a "physical object whose design has been released to the public in such a way that anyone can <strong>make, modify, distribute, and use them</strong>". For more information, visit the <a href="https://certification.oshwa.org/basics.html">OSHWA Certification website</a>.
 
 <br>
 <div class="row justify-content-sm-center">
@@ -95,22 +106,23 @@ Special thanks to:
 * <b>Supervisors (materials library development):</b> Marinella Levi, Valentina Rognoli.
 + <b>Consultants, technical assistance, and support:</b> Mattia Ciurnelli, Aliaksei Petsiuk, Gianluca Pugliese, Ravneet S. Rattan, Giulia Riccardi, Romano Romani.
 + <b>Companies and institutions:</b> FAST Lab (Western University), SuperForma Srl, Wasp Srl, Il Bullone, CoffeeFrom Srl, LowPoly SL, Re:3D.
++ <b>Associations and institutions (certifications):</b> OSHWA (Open Source Hardware Association).
 
 <br>Research Labs/groups:
 <br>
 <div class="row justify-content-center align-items-center">
     <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
-    {% include figure.html path="assets/img/+LabLogo.png" title="example image" class="img-fluid" %}
+    {% include figure.html path="assets/img/+LabLogo.png" title="+LAB Logo" class="img-fluid" %}
     </div>
     <div class="col-sm-1 mt-3 mt-md-0" style="text-align:left">
     </div>
     <div class="col-sm-3 mt-3 mt-md-0" style="text-align:center">
-    {% include figure.html path="assets/img/MaDeLogo.png" title="example image" class="img-fluid" %}
+    {% include figure.html path="assets/img/MaDeLogo.png" title="MaDe Logo" class="img-fluid" %}
     </div>
     <div class="col-sm-1 mt-3 mt-md-0" style="text-align:left">
     </div>
     <div class="col-sm-3 mt-3 mt-md-0" style="text-align:right">
-    {% include figure.html path="assets/img/FASTlogo.png" title="example image" class="img-fluid" %}
+    {% include figure.html path="assets/img/FASTlogo.png" title="FAST Logo" class="img-fluid" %}
     </div>
 </div>
 <div class="row justify-content-sm-center">
