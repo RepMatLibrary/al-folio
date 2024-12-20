@@ -97,7 +97,7 @@ facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
-contact_note: This Materials Library is part of the PhD research of Alessia Romani held at Politecnico di Milano (Italy),<br>supervised by prof. Marinella Levi and prof. Valentina Rognoli.<br><br>The Materials Library System is released under the <strong>GNU General Public License (GPL) 3.0.</strong>
+contact_note: This Materials Library is part of the PhD research of Alessia Romani held at Politecnico di Milano (Italy),<br>supervised by prof. Marinella Levi and prof. Valentina Rognoli.<br>
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
