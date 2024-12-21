@@ -215,8 +215,6 @@ category: Product - Cluster 008
 
 <hr>
 
-<h4><b>Resources and links</b></h4>
-
 <div class="row justify-content-sm-left">
 <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
 <h4><b>Resources <br>and links</b></h4>
