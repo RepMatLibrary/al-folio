@@ -31,44 +31,215 @@ category: Product - Cluster 004
 <hr>
 <h4><b>Main info</b></h4>
 <h5>Product sample #008</h5>
-<br>
-
-| <b>Cluster</b>       | 004 - Spent Coffee Grounds from industrial scraps as filler for thermoplastics. |
-|    |     |
-| <b>Waste/Scrap type</b>       | Spent Coffee Grounds     |
-| <b>Waste/Scrap producer</b>    | [CoffeeFrom](https://coffeefrom.it/).     |
-|    |     |
-| <b>Recycling steps</b>      | Compounding and pelletization.     |
-| <b>Recyclate nominal size</b>       | ~ 3 mm (average size).    |
-|    |     |
-| <b>Material type</b>      | Compounded pellet - Injection Molding Grade. |
-| <b>Material specs</b>       | PLA + 10% wt. Spent coffee grounds     |
-| <b>Material producer</b>   | [Nexeo Plastics](https://www.nexeoplastics.com/) and [CoffeeFrom](https://coffeefrom.it/).     |
-|    |     |
-| <b>Reprocessing</b>      | 3D Printing - Fused Particle Granulation (FPG). |
-| <b>3D Printing system</b>      | Delta Wasp Industrial 3MT.    |
-| <b>Equipment producer</b>   | [Wasp](https://www.3dwasp.com/).   |
-|    |     |
-| <b>Nozzle diameter</b>      | 3 mm. |
-| <b>Layer height</b>      | 0.5 mm.    |
-| <b>Printing mode</b>   | 1 perimeter (vase mode).   |
-| <b>Printing speed</b>   | 10 mm/s.  |
-|    |     |
-| <b>Post-processing</b>      | No post-processing. |
-| <b>Finishing</b>      | Layer-by-layer appearance from 3D printing process and color from the coffee-filled pellet.    |
-|    |     |
-| <b>3D model features</b>      | Non-linear paths (angle variations along the extruded paths/lines).    |
-| <b>3D model type</b>      | Sample shape.    |
-| <b>Non-planar angle</b>      | 0° (max curvature).  |
-|    |     |
-| <b>Recyclate library reference</b>    | <a href="/projects/RecLi_C006_M02/" target="_blank">C006_M02</a>     |
 
 <br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Cluster</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        004 - Spent Coffee Grounds from industrial scraps as filler for thermoplastics.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Spent Coffee Grounds.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://coffeefrom.it/">CoffeeFrom</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recycling steps</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Compounding and pelletization.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate nominal size</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        ~ 3 mm (average size).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Compounded pellet - Injection Molding Grade.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material specs</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        PLA + 10% wt. Spent coffee grounds.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://www.nexeoplastics.com/">Nexeo Plastics</a> and
+        <a href="https://coffeefrom.it/">CoffeeFrom</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Reprocessing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        3D Printing - Fused Particle Granulation (FPG).
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>3D Printing system</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Delta Wasp Industrial 3MT.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Equipment producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://www.3dwasp.com/">Wasp</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Nozzle diameter</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        3 mm.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Layer height</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        0.5 mm.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Printing mode</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        1 perimeter (vase mode).
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Printing speed</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        10 mm/s.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Post-processing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        No post-processing.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Finishing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Layer-by-layer appearance from 3D printing process and color from the coffee-filled pellet.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>3D model features</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Non-linear paths (angle variations along the extruded paths/lines).
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>3D model type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Sample shape.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Non-planar angle</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        0° (max curvature).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate library reference</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/RecLi_C006_M02/" target="_blank" title="Recyclate sample"><i class='fas fa-vial' style='font-size:1rem'></i> <b>C006_M02</b></a>
+    </div>
+</div>
+<br>
+
 <hr>
-<h4><b>Resources and links</b></h4>
 
-| <b>Thesis work (link to the pdf)</b>       | [Here](https://www.politesi.polimi.it/handle/10589/206349 ).   |
-| <b>Research article</b>       | [Here](https://link.springer.com/article/10.1007/s00170-024-14214-2 ).   |
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <h4><b>Resources <br>and links</b></h4>
+    </div>
+    <div class="col-sm-2 mt-3 mt-md-0" style="text-align:center">
+        <a href="https://www.politesi.polimi.it/handle/10589/206349" title="Thesis work">
+            <i class='fas fa-book-open' style='font-size:3rem'></i>
+        </a>
+        <br><b>Thesis work</b>
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:center">
+        <a href="https://link.springer.com/article/10.1007/s00170-024-14214-2" title="Research article">
+            <i class='fas fa-clipboard-check' style='font-size:3rem'></i>
+        </a>
+        <br><b>Research article</b>
+    </div>
+</div>
 
 <hr>
 

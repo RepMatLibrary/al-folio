@@ -31,44 +31,212 @@ category: Product - Cluster 001
 <hr>
 <h4><b>Main info</b></h4>
 <h5>Product sample #015</h5>
+
+<br>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Cluster</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        001 - Recycled PLA.
+    </div>
+</div>
 <br>
 
-| <b>Cluster</b>       | 001 - Recycled PLA. |
-|    |     |
-| <b>Waste/Scrap type</b>       | PLA from 3D printed products and trials.     |
-| <b>Waste/Scrap producer</b>    | Internal waste stream (+LAB)      |
-|    |     |
-| <b>Recycling steps</b>      | Mechanical recycling (shredding and sieving).     |
-| <b>Recyclate nominal size</b>       | < 3 mm (after sieving).    |
-|    |     |
-| <b>Material type</b>      | recycled PLA feedstock. |
-| <b>Material specs</b>       | one cycle of reprocessing (recycling + extrusion).    |
-| <b>Material producer</b>   | [+LAB](piulab.it); [SuperForma](https://superforma.xyz/).    |
-|    |     |
-| <b>Reprocessing</b>      | 3D Printing - Fused Particle Granulation (FPG). |
-| <b>3D Printing system</b>      | Delta Wasp Industrial 3MT.    |
-| <b>Equipment producer</b>   | [Wasp](https://www.3dwasp.com/).   |
-|    |     |
-| <b>Nozzle diameter</b>      | 3 mm. |
-| <b>Layer height</b>      | 0.7 mm.    |
-| <b>Printing mode</b>   | 1 perimeter.   |
-| <b>Printing speed</b>   | 15 mm/s.  |
-|    |     |
-| <b>Post-processing</b>   | Painting (transparent).    |
-| <b>Finishing</b>      | Layer-by-layer appearance from 3D printing process, glossy surface from painting.    |
-| <b>Painting</b>    | Varnishes are from scraps of artisanal or industrial paintings.   |
-|    |     |
-| <b>3D model features</b>      | Extruded paths (design the path to reduce material usage).    |
-| <b>3D model type</b>      | Sample cut-off of a potential application (furniture).    |
-|    |     |
-| <b>Recyclate library reference</b>    | <a href="/projects/RecLi_C001_M01/" target="_blank">C001_M01</a>     |
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        PLA from 3D printed products and trials.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Internal waste stream (+LAB).
+    </div>
+</div>
+<br>
 
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recycling steps</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Mechanical recycling (shredding and sieving).
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate nominal size</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        < 3 mm (after sieving).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Recycled PLA feedstock.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material specs</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        One cycle of reprocessing (recycling + extrusion).
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://piulab.it">+LAB</a>; <a href="https://superforma.xyz/">SuperForma</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Reprocessing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        3D Printing - Fused Particle Granulation (FPG).
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>3D Printing system</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Delta Wasp Industrial 3MT.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Equipment producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://www.3dwasp.com/">Wasp</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Nozzle diameter</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        3 mm.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Layer height</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        0.7 mm.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Printing mode</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        1 perimeter.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Printing speed</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        15 mm/s.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Post-processing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Painting (transparent).
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Finishing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Layer-by-layer appearance from 3D printing process, glossy surface from painting.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Painting</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Varnishes are from scraps of artisanal or industrial paintings.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>3D model features</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Extruded paths (design the path to reduce material usage).
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>3D model type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Sample cut-off of a potential application (furniture).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate library reference</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+  <a href="/projects/RecLi_C001_M01/" target="_blank" title="Recyclate sample"><i class='fas fa-vial' style='font-size:1rem'></i> <b>C001_M01</b></a>
+    </div>
+</div>
 <br>
 <hr>
-<h4><b>Resources and links</b></h4>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <h4><b>Resources <br>and links</b></h4>
+    </div>
+    <div class="col-sm-2 mt-3 mt-md-0" style="text-align:center">
+        <a href="https://www.politesi.polimi.it/handle/10589/187269" title="Thesis work">
+            <i class='fas fa-book-open' style='font-size:3rem'></i>
+        </a>
+        <br><b>Thesis work</b>
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:center">
+        <a href="https://www.sciencedirect.com/science/article/pii/S2589234723003238" title="Research article">
+            <i class='fas fa-clipboard-check' style='font-size:3rem'></i>
+        </a>
+        <br><b>Research article</b>
+    </div>
+</div>
 
-| <b>Thesis work (link to the pdf)</b>       | [Here](https://www.politesi.polimi.it/handle/10589/187269 ).   |
-| <b>Research article</b>       | [Here](https://www.sciencedirect.com/science/article/pii/S2589234723003238 ).   |
 
 <br>
 <hr>

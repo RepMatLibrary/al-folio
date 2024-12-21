@@ -31,42 +31,202 @@ category: Product - Cluster 005
 <hr>
 <h4><b>Main info</b></h4>
 <h5>Product sample #020</h5>
-<br>
-
-| <b>Cluster</b>       | 005 - PLA with Spent Coffee Grounds from industrial scraps . |
-|    |     |
-| <b>Waste/Scrap type</b>       | Spent Coffee Grounds     |
-| <b>Waste/Scrap producer</b>    | [Lowpoly SL](https://lowpoly.info/).     |
-|    |     |
-| <b>Recycling steps</b>      | Compounding and pelletization.     |
-| <b>Recyclate nominal size</b>       | ~ 3 mm (average size).    |
-|    |     |
-| <b>Material type</b>      | PLA + masterbatch with Spent Coffee Grounds. |
-| <b>Material specs</b>       | 90% wt. PLA + 10% wt. Spent coffee ground masterbatch     |
-| <b>Material producer</b>   | [Natureworks](https://www.natureworksllc.com/) (matrix providers) + [Lowpoly SL](https://lowpoly.info/) (Masterbatch providers) + [+LAB](piulab.it) (Mixing).     |
-|    |     |
-| <b>Reprocessing</b>      | 3D Printing - Fused Particle Granulation (FPG). |
-| <b>3D Printing system</b>      | Delta Wasp Industrial 3MT.    |
-| <b>Equipment producer</b>   | [Wasp](https://www.3dwasp.com/).   |
-|    |     |
-| <b>Nozzle diameter</b>      | 3 mm. |
-| <b>Layer height</b>      | 0.7 mm.    |
-| <b>Printing mode</b>   | 1 perimeter (vase mode).   |
-| <b>Printing speed</b>   | 15 mm/s.  |
-|    |     |
-| <b>Post-processing</b>      | No post-processing. |
-| <b>Finishing</b>      | Layer-by-layer appearance from 3D printing process and color variation from the combination of the PLA matrix and the coffee-filled masterbatch.    |
-|    |     |
-| <b>3D model features</b>      | Overhang features and extruded paths (design the path to reduce material usage).    |
-| <b>3D model type</b>      | Component of a potential application (furniture).    |
-|    |     |
-| <b>Recyclate library reference</b>    | <a href="/projects/RecLi_C005_M03/" target="_blank">C005_M03</a>     |
 
 <br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Cluster</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        005 - PLA with Spent Coffee Grounds from industrial scraps.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Spent Coffee Grounds.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://lowpoly.info/">Lowpoly SL</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recycling steps</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Compounding and pelletization.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate nominal size</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        ~ 3 mm (average size).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        PLA + masterbatch with Spent Coffee Grounds.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material specs</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        90% wt. PLA + 10% wt. Spent coffee ground masterbatch.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://www.natureworksllc.com/">Natureworks</a> (matrix providers) +
+        <a href="https://lowpoly.info/">Lowpoly SL</a> (Masterbatch providers) +
+        <a href="https://piulab.it/">+LAB</a> (Mixing).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Reprocessing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        3D Printing - Fused Particle Granulation (FPG).
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>3D Printing system</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Delta Wasp Industrial 3MT.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Equipment producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://www.3dwasp.com/">Wasp</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Nozzle diameter</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        3 mm.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Layer height</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        0.7 mm.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Printing mode</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        1 perimeter (vase mode).
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Printing speed</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        15 mm/s.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Post-processing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        No post-processing.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Finishing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Layer-by-layer appearance from 3D printing process and color variation from the combination of the PLA matrix and the coffee-filled masterbatch.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>3D model features</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Overhang features and extruded paths (design the path to reduce material usage).
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>3D model type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Component of a potential application (furniture).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate library reference</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/RecLi_C005_M03/" target="_blank" title="Recyclate sample"><i class='fas fa-vial' style='font-size:1rem'></i> <b>C005_M03</b></a>
+    </div>
+</div>
+<br>
+
 <hr>
-<h4><b>Resources and links</b></h4>
 
-| <b>Research article</b>       | [Here](https://pubs.acs.org/doi/10.1021/acsomega.3c05669?fig=tgr1&ref=pdf ).   |
+<div class="row justify-content-sm-left">
+<div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+    <h4><b>Resources <br>and links</b></h4>
+</div>
+<div class="col-sm-3 mt-3 mt-md-0" style="text-align:center">
+    <a href="https://pubs.acs.org/doi/10.1021/acsomega.3c05669?fig=tgr1&ref=pdf" title="Research article">
+        <i class='fas fa-clipboard-check' style='font-size:3rem'></i>
+    </a>
+    <br><b>Research article</b>
+</div>
+</div>
 
 <br>
 <hr>

@@ -31,42 +31,197 @@ category: Product - Cluster 003
 <hr>
 <h4><b>Main info</b></h4>
 <h5>Product sample #009</h5>
+
+<br>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Cluster</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        003 - Biomass by-products (agro-waste).
+    </div>
+</div>
 <br>
 
-| <b>Cluster</b>       | 003 - Biomass by-products (agro-waste). |
-|    |     |
-| <b>Waste/Scrap type</b>       | Biomass by-products from the industrial sector (wood fibers and powder).     |
-| <b>Waste/Scrap producer</b>    | //      |
-|    |     |
-| <b>Recycling steps</b>      | Compounding and filament extrusion.     |
-|    |     |
-| <b>Material type</b>       | 3D printing filament.     |
-| <b>Material composition</b>   | PLA + wood fibers and powder.    |
-| <b>Filament diameter</b>    | 1.75 mm.    |
-| <b>Material producer</b>    | [Kanesis Eco Filament](https://www.kanesis.it/?lang=it).     |
-|    |     |
-| <b>Reprocessing</b>      | 3D Printing - Fused Filament Fabrication (FFF). |
-| <b>3D Printing system</b>      | Original Prusa i3 MK3S+.    |
-| <b>Equipment producer</b>   | [Prusa Research](https://www.prusa3d.com/it/).   |
-|    |     |
-| <b>Nozzle diameter</b>      | 0.6 mm. |
-| <b>Layer height</b>      | 0.3 mm.    |
-| <b>Printing mode</b>   | 2 perimeters + infill.   |
-| <b>Printing speed</b>   | 40 mm/s.  |
-|    |     |
-| <b>Post-processing</b>      | Sanding. |
-| <b>Finishing</b>      | Fine and matte surface from sanding.    |
-|    |     |
-| <b>3D model features</b>      | Extrusion part for technical components.    |
-| <b>3D model type</b>      | Component of a potential application (music).    |
-|    |     |
-| <b>Recyclate library reference</b>    | <a href="/projects/RecLi_C004_M01/" target="_blank">C004_M01</a>     |
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Biomass by-products from the industrial sector (wood fibers and powder).
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        //.
+    </div>
+</div>
+<br>
 
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recycling steps</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Compounding and filament extrusion.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        3D printing filament.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material composition</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        PLA + wood fibers and powder.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Filament diameter</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        1.75 mm.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://www.kanesis.it/?lang=it">Kanesis Eco Filament</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Reprocessing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        3D Printing - Fused Filament Fabrication (FFF).
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>3D Printing system</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Original Prusa i3 MK3S+.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Equipment producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://www.prusa3d.com/it/">Prusa Research</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Nozzle diameter</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        0.6 mm.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Layer height</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        0.3 mm.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Printing mode</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        2 perimeters + infill.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Printing speed</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        40 mm/s.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Post-processing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Sanding.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Finishing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Fine and matte surface from sanding.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>3D model features</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Extrusion part for technical components.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>3D model type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Component of a potential application (music).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate library reference</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/RecLi_C004_M01/" target="_blank" title="Recyclate sample"><i class='fas fa-vial' style='font-size:1rem'></i> <b>C004_M01</b></a>
+    </div>
+</div>
 <br>
 <hr>
-<h4><b>Resources and links</b></h4>
-
-| <b>Thesis work (link to the pdf)</b>       | [Here](https://www.politesi.polimi.it/handle/10589/187818 ).   |
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+    <h4><b>Resources <br>and links</b></h4>
+    </div>
+    <div class="col-sm-2 mt-3 mt-md-0" style="text-align:center">
+        <a href="https://www.politesi.polimi.it/handle/10589/187818" title="Thesis work">
+            <i class='fas fa-book-open' style='font-size:3rem'></i>
+        </a>
+        <br><b>Thesis work</b>
+    </div>
+</div>
 
 <br>
 <hr>
