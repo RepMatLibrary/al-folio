@@ -2,19 +2,16 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Press release, publications, and events about RepMat.
+description: Publications and research outcomes about RepMat.
 years: [2024, 2023, 2022, 2021]
 nav: false
 nav_order: 3
 ---
 <!-- _pages/publications.md -->
 
-<br>
+Here is a list of publications, such as journal articles and conference papers speaking about the <strong>RepMat</strong> library or focusing on specific materials and applications connected to it. Stay tuned for new insights about this work!
 
-
-<h4><b><a name="publications">Publications</a></b></h4>
-<h5>Journal articles, Book chapters, Conference papers</h5>
-<br>
+<br><br>
 <div class="publications">
 
 {%- for y in page.years %}

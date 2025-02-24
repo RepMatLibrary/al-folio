@@ -1,25 +1,22 @@
 ---
 layout: page
 permalink: /eventsandmedia/
-title: Press
-description: Press release, publications, and events about RepMat.
-years: [2024, 2023, 2022, 2021]
+title: Events and media resources
+description: Press release, events, and media resources about RepMat.
+years: [2025, 2024, 2023, 2022]
 nav: false
 nav_order: 3
 ---
 <!-- _pages/publications.md -->
 
-<br>
+Here is a list of events, conferences, and online media resources mentioning or speaking about the <strong>RepMat</strong> library. Stay tuned for new insights about this work!
 
-
-<h4><b><a name="events">Events and media</a></b></h4>
-<h5>International conferences, talks, presentations, and media</h5>
-<br>
+<br><br>
 <div class="publications">
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f events -q @*[year={{y}}]* %}
+  {% bibliography -f details -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>

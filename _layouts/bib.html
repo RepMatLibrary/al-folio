@@ -2,28 +2,29 @@
 ---
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
+        <div class="col-sm-2 {% if entry.preview %}preview{% endif %}" style="justify-content: center; align-items: center; width: 100%;">
         {%- if entry.preview -%}
           {% if entry.preview contains '://' -%}
-          <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
+          <img class="preview z-depth-0 rounded" src="{{ entry.preview }}" style="margin-right: 0.4 rem; display: flex; justify-content: center; align-items: center; width: 100%;">
           {%- else -%}
             {%- assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' -%}
             {% include figure.html
             path=entry_path
-            class="preview z-depth-1 rounded"
+            class="preview z-depth-0 rounded"
             alt=entry.preview -%}
           {%- endif -%}
-        {%- elsif entry.abbr -%}
+        {%- if entry.abbr -%}
           {%- if site.data.venues[entry.abbr] -%}
             {%- assign venue_style = nil -%}
             {%- if site.data.venues[entry.abbr].color != blank -%}
               {%- assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' -%}
             {%- endif -%}
-            <abbr class="badge" {% if venue_style %}{{venue_style}}{% endif %}><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
-          {%- else -%}
-            <abbr class="badge">{{entry.abbr}}</abbr>
+            <div style="margin-top: 0.4rem; margin-left: 0.3rem; display: flex; justify-content: center; align-items: center; width: 100%;">
+            <abbr class="badge z-depth-0" {% if venue_style %}{{venue_style}}{% endif %}>{{entry.abbr}}</abbr>
           {%- endif -%}
         {%- endif -%}
+        {%- endif -%}
+        </div>
         </div>
 
         <!-- Entry bib key -->
@@ -138,14 +139,17 @@
           {%- if entry.abstract %}
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
           {%- endif %}
-          {%- if entry.event %}
-            <a class="event btn btn-sm z-depth-0" role="button">Event</a>
+          {%- if entry.details %}
+            <a class="details btn btn-sm z-depth-0" role="button">Details</a>
           {%- endif %}
           {%- if entry.arxiv %}
             <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
           {%- endif %}
           {%- if entry.bibtex_show %}
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+          {%- endif %}
+          {%- if entry.doi %}
+            <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
           {%- endif %}
           {%- if entry.html %}
             <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
@@ -191,13 +195,14 @@
           {% if site.badges %}
           <div class="badges">
           {%- if site.badges.altmetric_badge or entry.altmetric %}
-            <span class="altmetric-embed" {% if entry.doi %}data-doi="{{ entry.doi }}"{% else %}data-altmetric-id="{{ entry.altmetric }}"{% endif %} data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
+            <span class="altmetric-embed" {% if entry.doi %}data-doi="{{ entry.doi }}"{% else %}data-altmetric-id="{{ entry.altmetric }}"{% endif %} data-hide-no-mentions="true" data-hide-less-than="1" data-badge-type="2" data-badge-popover="right"></span>
           {%- endif %}
           {%- if site.badges.dimensions_badge or entry.dimensions %}
             <span class="__dimensions_badge_embed__" {% if entry.doi %}data-doi="{{ entry.doi }}"{% else if entry.pmid %}data-pmid="{{ entry.pmid }}"{% else %}data-id="{{ entry.dimensions }}"{% endif %} data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 6px;"></span>
           {%- endif %}
           </div>
           {%- endif %}
+
 
           {% if entry.abstract -%}
           <!-- Hidden abstract block -->
@@ -206,10 +211,10 @@
           </div>
           {%- endif -%}
 
-          {% if entry.event -%}
-          <!-- Hidden event block -->
-          <div class="event hidden">
-            <p>{{ entry.event }}</p>
+          {% if entry.details -%}
+          <!-- Hidden details block -->
+          <div class="details hidden">
+            <p>{{ entry.details }}</p>
           </div>
           {%- endif -%}
 
