@@ -32,21 +32,110 @@ category: Physical Materials Library
 <h5>Physical Structure #05</h5>
 <br>
 
-| <b>Cluster</b>       | 005 - Spent Coffee Grounds from industrial scraps for compounds |
-| <b>N. of Layers</b>   | 1 (current layer: 1)    |
-| <b>N. of Samples</b>   | 3 (current layer: 3)    |
-|    |     |
-| <b>Variable 01</b>       | Matrix type (Virgin, Recycled). |
-| <b>Variable 02</b>       | Matrix type (Bio-based, Fossil-based). |
-| <b>Variable 03</b>       | //.    |
-|    |     |
-| <b>Waste/Scrap type</b>       | Spent Coffee Grounds     |
-| <b>Waste/Scrap producer</b>    | [CoffeeFrom](https://coffeefrom.it/).     |
-|    |     |
-| <b>Recycling steps</b>      | Drying and processing.     |
-| <b>Recyclate producer</b>    | [CoffeeFrom](https://coffeefrom.it/).     |
-|    |     |
-| <b>Sample references</b>    | <a href="/projects/MatLi_C005_L1_S01/" target="_blank">C005_L1_S01</a>, <a href="/projects/MatLi_C005_L1_S03/" target="_blank">C005_L1_S03</a>, <a href="/projects/MatLi_C005_L1_S04/" target="_blank">C005_L1_S04</a>. |
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Cluster</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        005 - Spent Coffee Grounds from industrial scraps for compounds
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>N. of Layers</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        1 (current layer: 1)
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>N. of Samples</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        3 (current layer: 3)
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Variable 01</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Matrix type (Virgin, Recycled).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Variable 02</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Matrix type (Bio-based, Fossil-based).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Variable 03</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        //.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Spent Coffee Grounds
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://coffeefrom.it/" target="_blank">CoffeeFrom</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recycling steps</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Drying and processing.
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://coffeefrom.it/" target="_blank">CoffeeFrom</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Sample references</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/MatLi_C005_L1_S01/" target="_blank"><i class="fas fa-square"></i> C005_L1_S01</a>
+        <a href="/projects/MatLi_C005_L1_S03/" target="_blank"><i class="fas fa-square"></i> C005_L1_S03</a>
+        <a href="/projects/MatLi_C005_L1_S04/" target="_blank"><i class="fas fa-square"></i> C005_L1_S04</a>
+    </div>
+</div>
 
 <br>
 <hr>

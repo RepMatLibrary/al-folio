@@ -33,21 +33,99 @@ category: Material - Cluster 006
 <h5>Material sample #004</h5>
 <br>
 
-| <b>Cluster</b>       | 006 - Recycled PLA with Hemp Hurd from industrial scraps. |
-|    |     |
-| <b>Waste/Scrap type</b>       | Hemp Hurd.     |
-| <b>Waste/Scrap producer</b>    | [SunStrand](https://www.linkedin.com/company/sunstrand/?originalSubdomain=it).   |
-|    |     |
-| <b>Recycling steps</b>      | //     |
-| <b>Recyclate nominal size</b>     | ~ 3 mm (average size).    |
-|    |     |
-| <b>Material type</b>       | 85% wt. virgin PLA + 15% wt. Hemp Hurd Fibers.     |
-| <b>Material producer</b>    | [Natureworks](https://www.natureworksllc.com/) + [SunStrand](https://www.linkedin.com/company/sunstrand/?originalSubdomain=it) + [+LAB](piulab.it) (Mixing).    |
-|    |     |
-| <b>Post-processing</b>   | Sanded.    |
-| <b>Finishing</b>    | Fine - from sanding.   |
-|    |     |
-| <b>Recyclate library reference</b>    | <a href="/projects/RecLi_C005_M01/" target="_blank">C005_M01</a> and <a href="/projects/RecLi_C007_M01/" target="_blank">C007_M01</a>    |
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Cluster</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        006 - Recycled PLA with Hemp Hurd from industrial scraps.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Hemp Hurd.
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://www.linkedin.com/company/sunstrand/?originalSubdomain=it" target="_blank">SunStrand</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recycling steps</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        //
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate nominal size</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        ~ 3 mm (average size).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        85% wt. virgin PLA + 15% wt. Hemp Hurd Fibers.
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://www.natureworksllc.com/" target="_blank">Natureworks</a> + <a href="https://www.linkedin.com/company/sunstrand/?originalSubdomain=it" target="_blank">SunStrand</a> + <a href="https://piulab.it" target="_blank">+LAB</a> (Mixing).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Post-processing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Sanded.
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Finishing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Fine - from sanding.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate library reference</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/RecLi_C005_M01/" target="_blank"><i class="fas fa-vial"></i> C005_M01</a> <a href="/projects/RecLi_C007_M01/" target="_blank"><i class="fas fa-vial"></i> C007_M01</a>
+    </div>
+</div>
 
 <br>
 <hr>

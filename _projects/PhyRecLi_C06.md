@@ -33,20 +33,102 @@ category: Physical Recyclate Library
 <h5>Physical Structure #06</h5>
 <br>
 
-| <b>Cluster</b>       | 006 - Spent Coffee Grounds from industrial scraps for compounds |
-| <b>N. of Layers</b>   | 1    |
-| <b>N. of Samples</b>   | 4    |
-|    |     |
-| <b>Variable 01</b>       | Type of granulate feedstock (matrix). |
-| <b>Variable 02</b>       | Spent Coffee Grounds pellet.    |
-|    |     |
-| <b>Waste/Scrap type</b>       | Spent Coffee Grounds     |
-| <b>Waste/Scrap producer</b>    | [CoffeeFrom](https://coffeefrom.it/).     |
-|    |     |
-| <b>Recycling steps</b>      | Drying and processing.     |
-| <b>Recyclate producer</b>    | [CoffeeFrom](https://coffeefrom.it/).     |
-|    |     |
-| <b>Sample references</b>    | <a href="/projects/RecLi_C006_M01/" target="_blank">C006_M01</a>,  <a href="/projects/RecLi_C006_M02/" target="_blank">C006_M02</a>, <a href="/projects/RecLi_C006_M03/" target="_blank">C006_M03</a>, <a href="/projects/RecLi_C006_M04/" target="_blank">C006_M04</a>. |
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Cluster</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        006 - Spent Coffee Grounds from industrial scraps for compounds
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>N. of Layers</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        1
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>N. of Samples</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        4
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Variable 01</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Type of granulate feedstock (matrix).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Variable 02</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Spent Coffee Grounds pellet.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Spent Coffee Grounds
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://coffeefrom.it/" target="_blank">CoffeeFrom</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recycling steps</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Drying and processing.
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://coffeefrom.it/" target="_blank">CoffeeFrom</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Sample references</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/RecLi_C006_M01/" target="_blank"><i class="fas fa-vial"></i> C006_M01</a>  
+        <a href="/projects/RecLi_C006_M02/" target="_blank"><i class="fas fa-vial"></i> C006_M02</a>
+        <a href="/projects/RecLi_C006_M03/" target="_blank"><i class="fas fa-vial"></i> C006_M03</a>
+        <a href="/projects/RecLi_C006_M04/" target="_blank"><i class="fas fa-vial"></i> C006_M04</a>
+    </div>
+</div>
 
 <br>
 <hr>

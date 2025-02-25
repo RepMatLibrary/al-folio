@@ -32,21 +32,116 @@ category: Physical Materials Library
 <h5>Physical Structure #03</h5>
 <br>
 
-| <b>Cluster</b>       | 003 - Biomass by-products (agro-waste - Tomato scraps and powder). |
-| <b>N. of Layers</b>   | 3 (current layer: 3)    |
-| <b>N. of Samples</b>   | 27 (current layer: 9)    |
-|    |     |
-| <b>Variable 01</b>       | Finishing and post-processing (No, Sanding, Painting - transparent). |
-| <b>Variable 02</b>       | Sample thickness (2 mm, 4 mm, 8 mm).    |
-| <b>Variable 03</b>       | Biomass-filled feedstock (Wood fibers and powder, Hemp fibers and powder, Tomato scraps and powder).    |
-|    |     |
-| <b>Waste/Scrap type</b>       | Biomass by-products from the industrial sector (wood fibers and powder, hemp fibers and powder, and tomato scraps and powder).     |
-| <b>Waste/Scrap producer</b>    | //      |
-|    |     |
-| <b>Recycling steps</b>      | Compounding and filament extrusion.     |
-| <b>Material producer</b>    | [Kanesis Eco Filament](https://www.kanesis.it/?lang=it).     |
-|    |     |
-| <b>Sample references</b>    | <a href="/projects/MatLi_C003_L3_S01/" target="_blank">C003_L3_S01</a>, <a href="/projects/MatLi_C003_L3_S02/" target="_blank">C003_L3_S02</a>, <a href="/projects/MatLi_C003_L3_S03/" target="_blank">C003_L3_S03</a>, <a href="/projects/MatLi_C003_L3_S04/" target="_blank">C003_L3_S04</a>, <a href="/projects/MatLi_C003_L3_S05/" target="_blank">C003_L3_S05</a>, <a href="/projects/MatLi_C003_L3_S06/" target="_blank">C003_L3_S06</a>, <a href="/projects/MatLi_C003_L3_S07/" target="_blank">C003_L3_S07</a>, <a href="/projects/MatLi_C003_L3_S08/" target="_blank">C003_L3_S08</a>, <a href="/projects/MatLi_C003_L3_S09/" target="_blank">C003_L3_S09</a>. |
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Cluster</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        003 - Biomass by-products (agro-waste - Tomato scraps and powder).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>N. of Layers</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        3 (current layer: 3)
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>N. of Samples</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        27 (current layer: 9)
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Variable 01</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Finishing and post-processing (No, Sanding, Painting - transparent).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Variable 02</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Sample thickness (2 mm, 4 mm, 8 mm).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Variable 03</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Biomass-filled feedstock (Wood fibers and powder, Hemp fibers and powder, Tomato scraps and powder).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Biomass by-products from the industrial sector (wood fibers and powder, hemp fibers and powder, and tomato scraps and powder).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        //
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recycling steps</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Compounding and filament extrusion.
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://www.kanesis.it/?lang=it" target="_blank">Kanesis Eco Filament</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Sample references</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/MatLi_C003_L3_S01/" target="_blank"><i class="fas fa-square"></i> C003_L3_S01</a>
+        <a href="/projects/MatLi_C003_L3_S02/" target="_blank"><i class="fas fa-square"></i> C003_L3_S02</a>
+        <a href="/projects/MatLi_C003_L3_S03/" target="_blank"><i class="fas fa-square"></i> C003_L3_S03</a>
+        <a href="/projects/MatLi_C003_L3_S04/" target="_blank"><i class="fas fa-square"></i> C003_L3_S04</a><br>
+        <a href="/projects/MatLi_C003_L3_S05/" target="_blank"><i class="fas fa-square"></i> C003_L3_S05</a>
+        <a href="/projects/MatLi_C003_L3_S06/" target="_blank"><i class="fas fa-square"></i> C003_L3_S06</a>
+        <a href="/projects/MatLi_C003_L3_S07/" target="_blank"><i class="fas fa-square"></i> C003_L3_S07</a>
+        <a href="/projects/MatLi_C003_L3_S08/" target="_blank"><i class="fas fa-square"></i> C003_L3_S08</a><br>
+        <a href="/projects/MatLi_C003_L3_S09/" target="_blank"><i class="fas fa-square"></i> C003_L3_S09</a>
+    </div>
+</div>
 
 <br>
 <hr>

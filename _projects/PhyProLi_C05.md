@@ -32,28 +32,172 @@ category: Physical Product Library
 <h5>Physical Structure #05</h5>
 <br>
 
-| <b>Cluster</b>       | 005 - PLA with Spent Coffee Grounds from industrial scraps. |
-| <b>N. of Layers</b>   | 3    |
-| <b>N. of Samples</b>   | 10   |
-|    |     |
-| <b>Variable 01</b>       | Layer height (0.7 mm, 1.0 mm. 1.2 mm). |
-| <b>Variable 02</b>       | 3D printing mode (One perimeter, one perimeter + 10% grid infill, one perimeter + 20% grid infill).    |
-| <b>Variable 03</b>       | 3D printing speed (15 mm/s, 20 mm/s, 30 mm/s).    |
-| <b>Variable 04</b>       | Design complexity (Geometrical features, overall shape and texture, potential applications).    |
-|    |     |
-| <b>Waste/Scrap type</b>       | Spent Coffee Grounds     |
-| <b>Waste/Scrap producer</b>    | [Lowpoly SL](https://lowpoly.info/).     |
-|    |     |
-| <b>Recycling steps</b>      | Compounding and pelletization.     |
-| <b>Recyclate producer</b>    | [Natureworks](https://www.natureworksllc.com/) (matrix providers) + [Lowpoly SL](https://lowpoly.info/) (Masterbatch providers) + [+LAB](piulab.it) (Mixing).     |
-|    |     |
-| <b>Reprocessing</b>      | 3D Printing - Fused Particle Granulation (FPG). |
-| <b>3D Printing system</b>      | Delta Wasp Industrial 3MT.    |
-| <b>Equipment producer</b>   | [Wasp](https://www.3dwasp.com/).   |
-|    |     |
-| <b>Sample references (Layer 1)</b>    | <a href="/projects/ProLi_C005_L01_S01/" target="_blank">C005_L01_S01</a>, <a href="/projects/ProLi_C005_L01_S02/" target="_blank">C005_L01_S02</a>, <a href="/projects/ProLi_C005_L01_S03/" target="_blank">C005_L01_S03</a>, <a href="/projects/ProLi_C005_L01_S04/" target="_blank">C005_L01_S04</a>, <a href="/projects/ProLi_C005_L01_S05/" target="_blank">C005_L01_S05</a>, <a href="/projects/ProLi_C005_L01_S06/" target="_blank">C005_L01_S06</a>. |
-| <b>Sample references (Layer 2)</b>    | <a href="/projects/ProLi_C005_L02_S01/" target="_blank">C005_L02_S01</a>, <a href="/projects/ProLi_C005_L02_S02/" target="_blank">C005_L02_S02</a>, <a href="/projects/ProLi_C005_L02_S03/" target="_blank">C005_L02_S03</a>. |
-| <b>Sample references (Layer 3)</b>    | <a href="/projects/ProLi_C005_L03_S01/" target="_blank">C005_L03_S01</a>. |
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Cluster</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        005 - PLA with Spent Coffee Grounds from industrial scraps.
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>N. of Layers</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        3
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>N. of Samples</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        10
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Variable 01</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Layer height (0.7 mm, 1.0 mm. 1.2 mm).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Variable 02</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        3D printing mode (One perimeter, one perimeter + 10% grid infill, one perimeter + 20% grid infill).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Variable 03</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        3D printing speed (15 mm/s, 20 mm/s, 30 mm/s).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Variable 04</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Design complexity (Geometrical features, overall shape and texture, potential applications).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Spent Coffee Grounds
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://lowpoly.info/" target="_blank">Lowpoly SL</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recycling steps</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Compounding and pelletization.
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://www.natureworksllc.com/" target="_blank">Natureworks</a> (matrix providers) +
+        <a href="https://lowpoly.info/" target="_blank">Lowpoly SL</a> (Masterbatch providers) +
+        <a href="https://piulab.it" target="_blank">+LAB</a> (Mixing).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Reprocessing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        3D Printing - Fused Particle Granulation (FPG).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>3D Printing system</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Delta Wasp Industrial 3MT.
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Equipment producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://www.3dwasp.com/" target="_blank">Wasp</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Sample references (Layer 1)</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/ProLi_C005_L01_S01/" target="_blank"><i class="fas fa-chair"></i> C005_L01_S01</a>
+        <a href="/projects/ProLi_C005_L01_S02/" target="_blank"><i class="fas fa-chair"></i> C005_L01_S02</a>
+        <a href="/projects/ProLi_C005_L01_S03/" target="_blank"><i class="fas fa-chair"></i> C005_L01_S03</a>
+        <a href="/projects/ProLi_C005_L01_S04/" target="_blank"><i class="fas fa-chair"></i> C005_L01_S04</a><br>
+        <a href="/projects/ProLi_C005_L01_S05/" target="_blank"><i class="fas fa-chair"></i> C005_L01_S05</a>
+        <a href="/projects/ProLi_C005_L01_S06/" target="_blank"><i class="fas fa-chair"></i> C005_L01_S06</a>
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Sample references (Layer 2)</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/ProLi_C005_L02_S01/" target="_blank"><i class="fas fa-chair"></i> C005_L02_S01</a>
+        <a href="/projects/ProLi_C005_L02_S02/" target="_blank"><i class="fas fa-chair"></i> C005_L02_S02</a>
+        <a href="/projects/ProLi_C005_L02_S03/" target="_blank"><i class="fas fa-chair"></i> C005_L02_S03</a>
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Sample references (Layer 3)</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/ProLi_C005_L03_S01/" target="_blank"><i class="fas fa-chair"></i> C005_L03_S01</a>
+    </div>
+</div>
 
 <br>
 <hr>

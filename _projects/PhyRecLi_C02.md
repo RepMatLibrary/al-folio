@@ -33,20 +33,102 @@ category: Physical Recyclate Library
 <h5>Physical Structure #02</h5>
 <br>
 
-| <b>Cluster</b>       | 002 - Recycled PLA <3mm. |
-| <b>N. of Layers</b>   | 1    |
-| <b>N. of Samples</b>   | 4    |
-|    |     |
-| <b>Variable 01</b>       | Number of recycling cycles (1, 2, 3, 5). |
-| <b>Variable 02</b>       | Feedstock granulometry (<3mm).    |
-|    |     |
-| <b>Waste/Scrap type</b>       | PLA from 3D printed products and trials.     |
-| <b>Waste/Scrap producer</b>    | Internal waste stream (+LAB)      |
-|    |     |
-| <b>Recycling steps</b>      | Mechanical recycling (shredding and sieving).     |
-| <b>Recyclate producer</b>    | [SuperForma](https://superforma.xyz/) (shredding) and [+LAB](piulab.it) (sieving).     |
-|    |     |
-| <b>Sample references</b>    | <a href="/projects/RecLi_C002_M01/" target="_blank">C002_M01</a>,  <a href="/projects/RecLi_C002_M02/" target="_blank">C002_M02</a>,  <a href="/projects/RecLi_C002_M03/" target="_blank">C002_M03</a>, <a href="/projects/RecLi_C002_M04/" target="_blank">C002_M04</a>. |
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Cluster</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        002 - Recycled PLA <3mm.
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>N. of Layers</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        1
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>N. of Samples</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        4
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Variable 01</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Number of recycling cycles (1, 2, 3, 5).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Variable 02</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Feedstock granulometry (<3mm).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        PLA from 3D printed products and trials.
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Internal waste stream (+LAB).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recycling steps</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Mechanical recycling (shredding and sieving).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://superforma.xyz/" target="_blank">SuperForma</a> (shredding) and <a href="https://piulab.it" target="_blank">+LAB</a> (sieving).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Sample references</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/RecLi_C002_M01/" target="_blank"><i class="fas fa-vial"></i> C002_M01</a>  
+        <a href="/projects/RecLi_C002_M02/" target="_blank"><i class="fas fa-vial"></i> C002_M02</a>  
+        <a href="/projects/RecLi_C002_M03/" target="_blank"><i class="fas fa-vial"></i> C002_M03</a>
+        <a href="/projects/RecLi_C002_M04/" target="_blank"><i class="fas fa-vial"></i> C002_M04</a>
+    </div>
+</div>
 
 <br>
 <hr>

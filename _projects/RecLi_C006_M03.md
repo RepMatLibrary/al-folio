@@ -33,23 +33,112 @@ category: Recyclates - Cluster 006
 <h5>Secondary raw material #019</h5>
 <br>
 
-| <b>Cluster</b>   | 006 - Spent Coffee Grounds from industrial scraps for compounds     |
-|    |     |
-| <b>Waste/Scrap type</b>       | Spent Coffee Grounds     |
-| <b>Waste/Scrap producer</b>    | [CoffeeFrom](https://coffeefrom.it/).     |
-|    |     |
-| <b>Recycling steps</b>      | Compounding and pelletization.     |
-| <b>Recyclate producer</b>    | [Nexeo Plastics](https://www.nexeoplastics.com/) and [CoffeeFrom](https://coffeefrom.it/).     |
-|    |     |
-<b>Granulate type</b>    | Spent Coffee Grounds + Recycled LDPE.     |
-| <b>Granulate type</b>    | Injection Molding grade.     |
-| <b>Granulate composition</b>    | Recycled LDPE + 10% wt. Spent coffee grounds     |
-
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Cluster</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        006 - Spent Coffee Grounds from industrial scraps for compounds
+    </div>
+</div>
 <br>
-<hr>
-<h4><b>Resources and links</b></h4>
 
-| <b>Technical datasheet</b>    | [Here](https://coffeefrom.it/en/materials/#eco).     |
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Spent Coffee Grounds
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://coffeefrom.it/">CoffeeFrom</a>
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recycling steps</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Compounding and pelletization.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://www.nexeoplastics.com/">Nexeo Plastics</a> and <a href="https://coffeefrom.it/">CoffeeFrom</a>
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Granulate type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Spent Coffee Grounds + Recycled LDPE
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Granulate grade</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Injection Molding grade
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Granulate composition</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Recycled LDPE + 10% wt. Spent coffee grounds
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Materials library reference</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/MatLi_C005_L1_S03/" target="_blank" title="Recyclate sample"><i class='fas fa-square' style='font-size:1rem'></i> <b>C005_L1_S03</b></a>
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Product library reference</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/ProLi_C004_L01_S06/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C004_L1_S06</b></a> <a href="/projects/ProLi_C004_L01_S09/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C004_L1_S09</b></a> <a href="/projects/ProLi_C004_L02_S06/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C004_L2_S06</b></a> <br>
+        <a href="/projects/ProLi_C006_L01_S01/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C006_L1_S01</b></a> <a href="/projects/ProLi_C006_L01_S02/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C006_L1_S02</b></a> <a href="/projects/ProLi_C006_L01_S04/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C006_L1_S04</b></a> <a href="/projects/ProLi_C006_L02_S01/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C006_L2_S01</b></a> <br><a href="/projects/ProLi_C006_L02_S02/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C006_L2_S02</b></a> <a href="/projects/ProLi_C006_L03_S01/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C006_L3_S01</b></a> 
+    </div>
+</div>
+<br>
+
+<hr>
+
+<div class="row justify-content-sm-left">
+<div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+<h4><b>Resources <br>and links</b></h4>
+</div>
+<div class="col-sm-2 mt-3 mt-md-0" style="text-align:center">
+<a href="https://coffeefrom.it/en/materials/" title="3D model (Stl)">
+<i class='fas fa-clipboard' style='font-size:3rem'></i>
+</a>
+<br><b>Technical datasheet</b>
+</div>
+</div>
 
 <hr>
 

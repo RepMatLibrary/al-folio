@@ -32,21 +32,90 @@ category: Material - Cluster 006
 <h5>Material sample #008</h5>
 <br>
 
-| <b>Cluster</b>       | 006 - Recycled PLA with Hemp Hurd from industrial scraps. |
-|    |     |
-| <b>Waste/Scrap type</b>       | Hemp Hurd, PLA from 3D printed products and trials.     |
-| <b>Waste/Scrap producer</b>    | [SunStrand](https://www.linkedin.com/company/sunstrand/?originalSubdomain=it), Internal waste stream (+LAB).   |
-|    |     |
-| <b>Recycling steps</b>      | Mixing (Hemp Hurd Fibers), Mechanical recycling (Recycled PLA - shredding and sieving).     |
-| <b>Recyclate nominal size</b>     | ~ 3 mm (average size).    |
-|    |     |
-| <b>Material type</b>       | 85% wt. recycled PLA (1 recycling cycle) + 15% wt. Hemp Hurd Fibers.     |
-| <b>Material producer</b>    | [SunStrand](https://www.linkedin.com/company/sunstrand/?originalSubdomain=it), [SuperForma](https://superforma.xyz/) (shredding), and [+LAB](piulab.it) (mixing).     |
-|    |     |
-| <b>Post-processing</b>   | No post-processing.    |
-| <b>Finishing</b>    | Coarse - from mold.   |
-|    |     |
-| <b>Recyclate library reference</b>    | <a href="/projects/RecLi_C007_M02/" target="_blank">C007_M02</a>|
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Cluster</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        006 - Recycled PLA with Hemp Hurd from industrial scraps.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Hemp Hurd, PLA from 3D printed products and trials.
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://www.linkedin.com/company/sunstrand/?originalSubdomain=it" target="_blank">SunStrand</a>, Internal waste stream (+LAB).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recycling steps</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Mixing (Hemp Hurd Fibers), Mechanical recycling (Recycled PLA - shredding and sieving).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        85% wt. recycled PLA (1 recycling cycle) + 15% wt. Hemp Hurd Fibers.
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://www.linkedin.com/company/sunstrand/?originalSubdomain=it" target="_blank">SunStrand</a>, <a href="https://superforma.xyz/" target="_blank">SuperForma</a> (shredding), and <a href="https://piulab.it" target="_blank">+LAB</a> (mixing).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Post-processing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        No post-processing.
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Finishing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Coarse - from mold.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate library reference</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/RecLi_C007_M02/" target="_blank"><i class="fas fa-vial"></i> C007_M02</a>
+    </div>
+</div>
 
 <br>
 <hr>

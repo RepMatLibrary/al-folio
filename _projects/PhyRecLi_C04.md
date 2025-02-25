@@ -33,20 +33,101 @@ category: Physical Recyclate Library
 <h5>Physical Structure #04</h5>
 <br>
 
-| <b>Cluster</b>       | 004 - Biomass by-products (agro-waste) |
-| <b>N. of Layers</b>   | 1    |
-| <b>N. of Samples</b>   | 3    |
-|    |     |
-| <b>Variable 01</b>       | Type of biomass scraps used as a filler. |
-| <b>Variable 02</b>       | Biomass-filled commercial filaments.    |
-|    |     |
-| <b>Waste/Scrap type</b>       | Biomass by-products from the industrial sector (wood fibers and powder, hemp fibers and powder, and tomato scraps and powder).     |
-| <b>Waste/Scrap producer</b>    | //      |
-|    |     |
-| <b>Recycling steps</b>      | Compounding and filament extrusion.     |
-| <b>Material producer</b>    | [Kanesis Eco Filament](https://www.kanesis.it/?lang=it).     |
-|    |     |
-| <b>Sample references</b>    | <a href="/projects/RecLi_C004_M01/" target="_blank">C004_M01</a>,  <a href="/projects/RecLi_C004_M02/" target="_blank">C004_M02</a>, <a href="/projects/RecLi_C004_M03/" target="_blank">C004_M03</a>. |
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Cluster</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        004 - Biomass by-products (agro-waste)
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>N. of Layers</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        1
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>N. of Samples</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        3
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Variable 01</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Type of biomass scraps used as a filler.
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Variable 02</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Biomass-filled commercial filaments.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Biomass by-products from the industrial sector (wood fibers and powder, hemp fibers and powder, and tomato scraps and powder).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        //
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recycling steps</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Compounding and filament extrusion.
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://www.kanesis.it/?lang=it" target="_blank">Kanesis Eco Filament</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Sample references</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/RecLi_C004_M01/" target="_blank"><i class="fas fa-vial"></i> C004_M01</a>  
+        <a href="/projects/RecLi_C004_M02/" target="_blank"><i class="fas fa-vial"></i> C004_M02</a>
+        <a href="/projects/RecLi_C004_M03/" target="_blank"><i class="fas fa-vial"></i> C004_M03</a>
+    </div>
+</div>
 
 <br>
 <hr>

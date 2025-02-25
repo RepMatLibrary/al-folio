@@ -33,22 +33,104 @@ category: Material - Cluster 001
 <h5>Material sample #062</h5>
 <br>
 
-| <b>Cluster</b>       | 001 - Recycled PLA. |
-|    |     |
-| <b>Waste/Scrap type</b>       | PLA from 3D printed products and trials.     |
-| <b>Waste/Scrap producer</b>    | Internal waste stream (+LAB)      |
-|    |     |
-| <b>Recycling steps</b>      | Mechanical recycling (shredding and sieving).     |
-| <b>Recyclate nominal size</b>    | < 2 mm (after sieving)     |
-|    |     |
-| <b>Material type</b>       | recycled PLA feedstock.     |
-| <b>Material specs</b>   | five cycles of reprocessing (recycling + extrusion)     |
-| <b>Material producer</b>    | [+LAB](piulab.it); [SuperForma](https://superforma.xyz/).    |
-|    |     |
-| <b>Post-processing</b>   | Sanding.    |
-| <b>Finishing</b>    | Fine - from sanding.   |
-|    |     |
-| <b>Recyclate library reference</b>    | <a href="/projects/RecLi_C002_M04/" target="_blank">C002_M04</a>     |
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Cluster</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        001 - Recycled PLA.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        PLA from 3D printed products and trials.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Internal waste stream (+LAB).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recycling steps</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Mechanical recycling (shredding and sieving).
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate nominal size</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        < 2 mm (after sieving).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Recycled PLA feedstock.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material specs</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Five cycles of reprocessing (recycling + extrusion).
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://piulab.it" target="_blank">+LAB</a>; <a href="https://superforma.xyz/" target="_blank">SuperForma</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Post-processing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Sanding.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Finishing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Fine - from sanding.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate library reference</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/RecLi_C002_M04/" target="_blank" title="Recyclate sample"><i class='fas fa-vial' style='font-size:1rem'></i> <b>C002_M04</b></a>
+    </div>
+</div>
 
 <br>
 <hr>

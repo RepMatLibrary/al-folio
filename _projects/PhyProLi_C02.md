@@ -32,27 +32,156 @@ category: Physical Product Library
 <h5>Physical Structure #02</h5>
 <br>
 
-| <b>Cluster</b>       | 002 - Recycled PC and PC/ABS. |
-| <b>N. of Layers</b>   | 2    |
-| <b>N. of Samples</b>   | 4   |
-|    |     |
-| <b>Variable 01</b>       | Material formulation (recycled PC/ABS, recycled PC). |
-| <b>Variable 02</b>       | 3D printing speed (30 mm/s, 40 mm/s).    |
-| <b>Variable 03</b>       | 3D printing mode (One perimeter, one perimeter + 10% gyroid infill).    |
-| <b>Variable 04</b>       | Design complexity (Geometrical features, overall shape and texture, potential applications).    |
-|    |     |
-| <b>Waste/Scrap type</b>       | PC and PC/ABS blends from industrial scraps.     |
-| <b>Waste/Scrap producer</b>    | Advanced Composites (PC) and McDonnough (ABS)      |
-|    |     |
-| <b>Recycling steps</b>      | Mechanical recycling (shredding and sieving).     |
-| <b>Recyclate producer</b>    | Advanced Composites and McDonnough (granulates), [Fast Lab](https://www.appropedia.org/FAST) (sieving + mixing).     |
-|    |     |
-| <b>Reprocessing</b>      | 3D Printing - Fused Particle Granulation (FPG). |
-| <b>3D Printing system</b>      | Re:3D GigabotX (modified - extruder).    |
-| <b>Equipment producer</b>   | [Re:3D](https://re3d.org/).   |
-|    |     |
-| <b>Sample references (Layer 1)</b>    | <a href="/projects/ProLi_C002_L01_S01/" target="_blank">C002_L01_S01</a>, <a href="/projects/ProLi_C002_L01_S02/" target="_blank">C002_L01_S02</a>, <a href="/projects/ProLi_C002_L01_S03/" target="_blank">C002_L01_S03</a>. |
-| <b>Sample references (Layer 2)</b>    | <a href="/projects/ProLi_C002_L02_S01/" target="_blank">C002_L02_S01</a>. |
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Cluster</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        002 - Recycled PC and PC/ABS.
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>N. of Layers</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        2
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>N. of Samples</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        4
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Variable 01</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Material formulation (recycled PC/ABS, recycled PC).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Variable 02</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        3D printing speed (30 mm/s, 40 mm/s).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Variable 03</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        3D printing mode (One perimeter, one perimeter + 10% gyroid infill).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Variable 04</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Design complexity (Geometrical features, overall shape and texture, potential applications).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        PC and PC/ABS blends from industrial scraps.
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Advanced Composites (PC) and McDonnough (ABS).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recycling steps</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Mechanical recycling (shredding and sieving).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Advanced Composites and McDonnough (granulates), <a href="https://www.appropedia.org/FAST" target="_blank">Fast Lab</a> (sieving + mixing).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Reprocessing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        3D Printing - Fused Particle Granulation (FPG).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>3D Printing system</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Re:3D GigabotX (modified - extruder).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Equipment producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://re3d.org/" target="_blank">Re:3D</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Sample references (Layer 1)</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/ProLi_C002_L01_S01/" target="_blank"><i class="fas fa-chair"></i> C002_L01_S01</a>
+        <a href="/projects/ProLi_C002_L01_S02/" target="_blank"><i class="fas fa-chair"></i> C002_L01_S02</a>
+        <a href="/projects/ProLi_C002_L01_S03/" target="_blank"><i class="fas fa-chair"></i> C002_L01_S03</a>
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Sample references (Layer 2)</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/ProLi_C002_L02_S01/" target="_blank"><i class="fas fa-chair"></i> C002_L02_S01</a>
+    </div>
+</div>
 
 <br>
 <hr>

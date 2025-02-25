@@ -33,19 +33,90 @@ category: Material - Cluster 004
 <h5>Material sample #001</h5>
 <br>
 
-| <b>Cluster</b>       | 004 - PLA with Spent Coffee Grounds from industrial scraps. |
-|    |     |
-| <b>Waste/Scrap type</b>       | //     |
-| <b>Waste/Scrap producer</b>    | //      |
-|    |     |
-| <b>Recycling steps</b>      | // (Virgin material).     |
-| <b>Material type</b>       | 100% wt. Virgin PLA.     |
-| <b>Material producer</b>    | [Natureworks](https://www.natureworksllc.com/).    |
-|    |     |
-| <b>Post-processing</b>   | Sanded.    |
-| <b>Finishing</b>    | Fine - from sanding.   |
-|    |     |
-| <b>Recyclate library reference</b>    | <a href="/projects/RecLi_C005_M01/" target="_blank">C005_M01</a>     |
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Cluster</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        004 - PLA with Spent Coffee Grounds from industrial scraps.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        //
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        //
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recycling steps</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        // (Virgin material).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        100% wt. Virgin PLA.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://www.natureworksllc.com/" target="_blank">Natureworks</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Post-processing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Sanded.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Finishing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Fine - from sanding.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate library reference</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/RecLi_C005_M01/" target="_blank" title="Recyclate sample">
+            <i class='fas fa-vial' style='font-size:1rem'></i> <b>C005_M01</b>
+        </a>
+    </div>
+</div>
 
 <br>
 <hr>

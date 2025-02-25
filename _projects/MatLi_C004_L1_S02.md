@@ -33,21 +33,99 @@ category: Material - Cluster 004
 <h5>Material sample #002</h5>
 <br>
 
-| <b>Cluster</b>       | 004 - PLA with Spent Coffee Grounds from industrial scraps. |
-|    |     |
-| <b>Waste/Scrap type</b>       | Spent Coffee Grounds     |
-| <b>Waste/Scrap producer</b>    | [Lowpoly SL](https://lowpoly.info/).     |
-|    |     |
-| <b>Recycling steps</b>      | Compounding and pelletization.     |
-| <b>Recyclate nominal size</b>     | ~ 3 mm (average size).    |
-|    |     |
-| <b>Material type</b>       | 95% wt. Virgin PLA + 5% wt. Spent Coffee Grounds masterbatch.     |
-| <b>Material producer</b>    | [Natureworks](https://www.natureworksllc.com/) + [Lowpoly SL](https://lowpoly.info/) (Masterbatch providers) + [+LAB](piulab.it) (Mixing).    |
-|    |     |
-| <b>Post-processing</b>   | Sanded.    |
-| <b>Finishing</b>    | Fine - from sanding.   |
-|    |     |
-| <b>Recyclate library reference</b>    | <a href="/projects/RecLi_C005_M01/" target="_blank">C005_M01</a> and <a href="/projects/RecLi_C005_M02/" target="_blank">C005_M02</a>    |
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Cluster</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        004 - PLA with Spent Coffee Grounds from industrial scraps.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Spent Coffee Grounds
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://lowpoly.info/" target="_blank">Lowpoly SL</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recycling steps</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Compounding and pelletization.
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate nominal size</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        ~ 3 mm (average size).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        95% wt. Virgin PLA + 5% wt. Spent Coffee Grounds masterbatch.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://www.natureworksllc.com/" target="_blank">Natureworks</a> +
+        <a href="https://lowpoly.info/" target="_blank">Lowpoly SL</a> (Masterbatch providers) +
+        <a href="https://piulab.it" target="_blank">+LAB</a> (Mixing).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Post-processing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Sanded.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Finishing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Fine - from sanding.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate library reference</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/RecLi_C005_M01/" target="_blank" title="Recyclate sample"><i class='fas fa-vial' style='font-size:1rem'></i> <b>C005_M01</b></a> <a href="/projects/RecLi_C005_M02/" target="_blank" title="Recyclate sample"><i class='fas fa-vial' style='font-size:1rem'></i> <b>C005_M02</b></a>
+    </div>
+</div>
 
 <br>
 <hr>

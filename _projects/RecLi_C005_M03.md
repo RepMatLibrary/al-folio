@@ -33,16 +33,89 @@ category: Recyclates - Cluster 005
 <h5>Secondary raw material #016</h5>
 <br>
 
-| <b>Cluster</b>   | 005 - PLA with Spent Coffee Grounds from industrial scraps     |
-|    |     |
-| <b>Waste/Scrap type</b>       | Spent Coffee Grounds     |
-| <b>Waste/Scrap producer</b>    | [Lowpoly SL](https://lowpoly.info/).     |
-|    |     |
-| <b>Recycling steps</b>      | Compounding and pelletization.     |
-| <b>Recyclate producer</b>    | [Natureworks](https://www.natureworksllc.com/) (matrix providers) + [Lowpoly SL](https://lowpoly.info/) (Masterbatch providers) + [+LAB](piulab.it) (Mixing).     |
-|    |     |
-| <b>Granulate nominal size</b>     | ~ 3 mm (average size).    |
-| <b>Granulate composition</b>    | 90% wt. PLA + 10% wt. Spent coffee ground masterbatch     |
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Cluster</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        005 - PLA with Spent Coffee Grounds from industrial scraps
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Spent Coffee Grounds
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://lowpoly.info/">Lowpoly SL</a>
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recycling steps</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Compounding and pelletization.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://www.natureworksllc.com/">Natureworks</a> (matrix providers) + <a href="https://lowpoly.info/">Lowpoly SL</a> (Masterbatch providers) + <a href="https://piulab.it">+LAB</a> (Mixing).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Granulate nominal size</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        ~ 3 mm (average size).
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Granulate composition</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        90% wt. PLA + 10% wt. Spent coffee ground masterbatch.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Materials library reference</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/MatLi_C004_L1_S04/" target="_blank" title="Recyclate sample"><i class='fas fa-square' style='font-size:1rem'></i> <b>C004_L1_S04</b></a>
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Product library reference</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/ProLi_C004_L01_S01/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C004_L1_S01</b></a> <a href="/projects/ProLi_C004_L01_S02/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C004_L1_S02</b></a> <a href="/projects/ProLi_C004_L01_S04/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C004_L1_S04</b></a> <a href="/projects/ProLi_C004_L01_S07/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C004_L1_S07</b></a> <br> <a href="/projects/ProLi_C004_L02_S01/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C004_L2_S01</b></a> <a href="/projects/ProLi_C004_L02_S02/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C004_L2_S02</b></a> <a href="/projects/ProLi_C004_L02_S04/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C004_L2_S04</b></a> <a href="/projects/ProLi_C004_L03_S01/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C004_L3_S01</b></a> <br><a href="/projects/ProLi_C004_L03_S02/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C004_L3_S02</b></a> <a href="/projects/ProLi_C004_L04_S01/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C004_L4_S01</b></a><br>
+        <a href="/projects/ProLi_C005_L01_S01/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C005_L1_S01</b></a> <a href="/projects/ProLi_C005_L01_S02/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C005_L1_S02</b></a> <a href="/projects/ProLi_C005_L01_S03/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C005_L1_S03</b></a> <a href="/projects/ProLi_C005_L01_S04/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C005_L1_S04</b></a> <br><a href="/projects/ProLi_C005_L01_S05/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C005_L1_S05</b></a> <a href="/projects/ProLi_C005_L01_S06/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C005_L1_S06</b></a> <a href="/projects/ProLi_C005_L02_S01/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C005_L2_S01</b></a> <a href="/projects/ProLi_C005_L02_S02/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C005_L2_S02</b></a> <br><a href="/projects/ProLi_C005_L02_S03/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C005_L2_S03</b></a> <a href="/projects/ProLi_C005_L03_S01/" target="_blank" title="Recyclate sample"><i class='fas fa-chair' style='font-size:1rem'></i> <b>C005_L3_S01</b></a>
+    </div>
+</div>
 
 <br>
 <hr>

@@ -33,21 +33,106 @@ category: Material - Cluster 003
 <h5>Material sample #003</h5>
 <br>
 
-| <b>Cluster</b>       | 003 - Biomass by-products (agro-waste). |
-|    |     |
-| <b>Waste/Scrap type</b>       | Biomass by-products from the industrial sector (wood fibers and powder).     |
-| <b>Waste/Scrap producer</b>    | //      |
-|    |     |
-| <b>Recycling steps</b>      | Compounding and filament extrusion.     |
-| <b>Material type</b>       | PLA + wood fibers and powder.     |
-| <b>Material producer</b>    | [Kanesis Eco Filament](https://www.kanesis.it/?lang=it).    |
-|    |     |
-| <b>Sample specs</b>   | 2 mm thickness.   |
-| <b>Post-processing</b>   | Painting (transparent).    |
-| <b>Finishing</b>    | Fine, glossy - from 3D printing, sanding, and painting.   |
-| <b>Painting</b>    | Varnishes are from scraps of artisanal or industrial paintings.   |
-|    |     |
-| <b>Recyclate library reference</b>    | <a href="/projects/RecLi_C004_M01/" target="_blank">C004_M01</a>     |
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Cluster</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        003 - Biomass by-products (agro-waste).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Biomass by-products from the industrial sector (wood fibers and powder).
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        //
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recycling steps</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Compounding and filament extrusion.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        PLA + wood fibers and powder.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://www.kanesis.it/?lang=it" target="_blank">Kanesis Eco Filament</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Sample specs</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        2 mm thickness.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Post-processing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Painting (transparent).
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Finishing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Fine, glossy - from 3D printing, sanding, and painting.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Painting</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Varnishes are from scraps of artisanal or industrial paintings.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate library reference</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/RecLi_C004_M01/" target="_blank" title="Recyclate sample">
+            <i class='fas fa-vial' style='font-size:1rem'></i> <b>C004_M01</b>
+        </a>
+    </div>
+</div>
 
 <br>
 <hr>

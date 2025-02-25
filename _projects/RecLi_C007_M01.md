@@ -33,15 +33,81 @@ category: Recyclates - Cluster 007
 <h5>Secondary raw material #021</h5>
 <br>
 
-| <b>Cluster</b>   | 007 - Recycled PLA with Hemp Hurd from industrial scraps     |
-|    |     |
-| <b>Waste/Scrap type</b>       | Hemp Hurd     |
-| <b>Waste/Scrap producer</b>    | [SunStrand](https://www.linkedin.com/company/sunstrand/?originalSubdomain=it).     |
-|    |     |
-| <b>Recycling steps</b>      | //     |
-| <b>Recyclate producer</b>    | [SunStrand](https://www.linkedin.com/company/sunstrand/?originalSubdomain=it).     |
-|    |     |
-<b>Recyclate type</b>    | Fibers.     |
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Cluster</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        007 - Recycled PLA with Hemp Hurd from industrial scraps
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Hemp Hurd
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://www.linkedin.com/company/sunstrand/?originalSubdomain=it">SunStrand</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recycling steps</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        //
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://www.linkedin.com/company/sunstrand/?originalSubdomain=it">SunStrand</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Fibers.
+    </div>
+</div>
+<br>
+
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Materials library reference</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/MatLi_C006_L1_S02/" target="_blank" title="Recyclate sample"><i class='fas fa-square' style='font-size:1rem'></i> <b>C006_L1_S02</b></a> <a href="/projects/MatLi_C006_L1_S04/" target="_blank" title="Recyclate sample"><i class='fas fa-square' style='font-size:1rem'></i> <b>C006_L1_S04</b></a>
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Product library reference</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        //
+    </div>
+</div>
 
 <br>
 <hr>

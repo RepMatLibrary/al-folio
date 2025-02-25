@@ -33,19 +33,90 @@ category: Material - Cluster 006
 <h5>Material sample #007</h5>
 <br>
 
-| <b>Cluster</b>       | 006 - Recycled PLA with Hemp Hurd from industrial scraps. |
-|    |     |
-| <b>Waste/Scrap type</b>       | PLA from 3D printed products and trials.     |
-| <b>Waste/Scrap producer</b>    | Internal waste stream (+LAB)      |
-|    |     |
-| <b>Recycling steps</b>      | Mechanical recycling (shredding and sieving).     |
-| <b>Material type</b>       | 100% wt. Recycled PLA (1 recycling cycle).     |
-| <b>Material producer</b>    | [SuperForma](https://superforma.xyz/) (shredding) and [+LAB](piulab.it) (sieving).     |
-|    |     |
-| <b>Post-processing</b>   | Sanded.    |
-| <b>Finishing</b>    | Fine - from sanding.   |
-|    |     |
-| <b>Recyclate library reference</b>    | <a href="/projects/RecLi_C001_M01/" target="_blank">C001_M01</a>|
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Cluster</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        006 - Recycled PLA with Hemp Hurd from industrial scraps.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        PLA from 3D printed products and trials.
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Internal waste stream (+LAB)
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recycling steps</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Mechanical recycling (shredding and sieving).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        100% wt. Recycled PLA (1 recycling cycle).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Material producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://superforma.xyz/" target="_blank">SuperForma</a> (shredding) and <a href="https://piulab.it" target="_blank">+LAB</a> (sieving).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Post-processing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Sanded.
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Finishing</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Fine - from sanding.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate library reference</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/RecLi_C001_M01/" target="_blank"><i class="fas fa-vial"></i> C001_M01</a>
+    </div>
+</div>
 
 <br>
 <hr>

@@ -32,21 +32,113 @@ category: Physical Materials Library
 <h5>Physical Structure #04</h5>
 <br>
 
-| <b>Cluster</b>       | 004 - PLA with Spent Coffee Grounds from industrial scraps |
-| <b>N. of Layers</b>   | 1 (current layer: 1)    |
-| <b>N. of Samples</b>   | 4 (current layer: 4)    |
-|    |     |
-| <b>Variable 01</b>       | Spent Coffee Ground weight percentage (<5% wt., <10% wt.). |
-| <b>Variable 02</b>       | Post-processing (Sanding, No). |
-| <b>Variable 03</b>       | //.    |
-|    |     |
-| <b>Waste/Scrap type</b>       | Spent Coffee Grounds     |
-| <b>Waste/Scrap producer</b>    | [Lowpoly SL](https://lowpoly.info/).     |
-|    |     |
-| <b>Recycling steps</b>      | Compounding and pelletization.     |
-| <b>Recyclate producer</b>    | [Natureworks](https://www.natureworksllc.com/) (matrix providers) + [Lowpoly SL](https://lowpoly.info/) (Masterbatch providers) + [+LAB](piulab.it) (Mixing).     |
-|    |     |
-| <b>Sample references</b>    | <a href="/projects/MatLi_C004_L1_S01/" target="_blank">C004_L1_S01</a>, <a href="/projects/MatLi_C004_L1_S02/" target="_blank">C004_L1_S02</a>, <a href="/projects/MatLi_C004_L1_S03/" target="_blank">C004_L1_S03</a>, <a href="/projects/MatLi_C004_L1_S04/" target="_blank">C004_L1_S04</a>. |
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Cluster</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        004 - PLA with Spent Coffee Grounds from industrial scraps
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>N. of Layers</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        1 (current layer: 1)
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>N. of Samples</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        4 (current layer: 4)
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Variable 01</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Spent Coffee Ground weight percentage (&lt;5% wt., &lt;10% wt.).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Variable 02</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Post-processing (Sanding, No).
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Variable 03</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        //.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Spent Coffee Grounds
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://lowpoly.info/" target="_blank">Lowpoly SL</a>.
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recycling steps</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Compounding and pelletization.
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://www.natureworksllc.com/" target="_blank">Natureworks</a> (matrix providers) +
+        <a href="https://lowpoly.info/" target="_blank">Lowpoly SL</a> (Masterbatch providers) +
+        <a href="https://piulab.it" target="_blank">+LAB</a> (Mixing).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Sample references</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/MatLi_C004_L1_S01/" target="_blank"><i class="fas fa-square"></i> C004_L1_S01</a>
+        <a href="/projects/MatLi_C004_L1_S02/" target="_blank"><i class="fas fa-square"></i> C004_L1_S02</a>
+        <a href="/projects/MatLi_C004_L1_S03/" target="_blank"><i class="fas fa-square"></i> C004_L1_S03</a>
+        <a href="/projects/MatLi_C004_L1_S04/" target="_blank"><i class="fas fa-square"></i> C004_L1_S04</a>
+    </div>
+</div>
 
 <br>
 <hr>
