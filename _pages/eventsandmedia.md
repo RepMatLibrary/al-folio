@@ -11,7 +11,20 @@ nav_order: 3
 
 Here is a list of events, conferences, and online media resources mentioning or speaking about the <strong>RepMat</strong> library. Stay tuned for new insights about this work!
 
+<br>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+    <td align="right">  <a href="/publications/" target="_self"><b>→</b> Publications</a></td></div>
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:center">
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:center">
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:right">  
+    </div>
+</div>
+
 <br><br>
+
 <div class="publications">
 
 {%- for y in page.years %}
@@ -44,14 +57,14 @@ Here is a list of events, conferences, and online media resources mentioning or 
 <br>
 <div class="row justify-content-sm-center">
     <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
-    <a href="/about/" target="_self"><b>?</b> About</a></div>
+    <td align="right">  <a href="/publications/" target="_self"><b>→</b> Publications</a></td></div>
     <div class="col-sm-3 mt-3 mt-md-0" style="text-align:center">
-
+    <a href="/about/" target="_self"><b>?</b> About</a>
     </div>
     <div class="col-sm-3 mt-3 mt-md-0" style="text-align:center">
-
+    <td align="right">  <a href="#" target="_self"><b>↑</b> Top</a></td>
     </div>
     <div class="col-sm-3 mt-3 mt-md-0" style="text-align:right">
-        <td align="right">  <a href="#" target="_self"><b>↑</b> Top</a></td>
+
     </div>
 </div>
